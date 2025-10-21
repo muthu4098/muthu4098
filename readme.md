@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:Muthu4098702@gmail.com"><img src="https://img.shields.io/badge/Email-Muthu4098702%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/muthu-kumar-5ab204269/"><img src="https://img.shields.io/badge/LinkedIn-Muthukumar-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="(https://tamiltrendz.netlify.app/)"><img src="https://img.shields.io/badge/Portfolio-tamiltrendz.netlify.app-orange?style=for-the-badge&logo=react"></a>
+  <a href="https://tamiltrendz.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-tamiltrendz.netlify.app-orange?style=for-the-badge&logo=react"></a>
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 ### 🚀 Featured Project
 
-#### 🛒 [TamilTrendZ – E-Commerce Web App](https://dosales.netlify.app/)
+#### 🛒 [TamilTrendZ – E-Commerce Web App](https://tamiltrendz.netlify.app/)
 > A full-fledged online shopping platform with product catalog, transaction system, and user-friendly design.
 
 🧩 **Tech Stack:** React • Flask • PostgreSQL • Material UI  
@@ -85,7 +85,7 @@ HTML • CSS • JavaScript • Python • Flask • PostgreSQL
   <a href="mailto:Muthu4098702@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"></a>
   <a href="https://www.linkedin.com/in/muthu-kumar-5ab204269/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"></a>
   <a href="https://github.com/muthu4098"><img src="https://skillicons.dev/icons?i=github" width="45"></a>
-  <a href="https://dosales.netlify.app/"><img src="https://skillicons.dev/icons?i=react" width="45"></a>
+  <a href="https://tamiltrendz.netlify.app/"><img src="https://skillicons.dev/icons?i=react" width="45"></a>
 </p>
 
 ---
