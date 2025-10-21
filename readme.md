@@ -42,20 +42,6 @@
 
 ---
 
-### 💼 Experience
-
-**🧑‍💻 Full Stack Developer Intern – Business Core Solutions**  
-📍 Chennai | *Jun 2025 – Sep 2025*  
-- Developed robust full-stack web applications using modern frameworks  
-- Collaborated with cross-functional teams to enhance UI/UX and performance  
-
-**👨‍💼 Customer Coordinator – MR Enterprises**  
-📍 Trichy | *Oct 2022 – May 2025*  
-- Facilitated communication between clients and technical teams  
-- Ensured smooth scheduling, task management, and documentation  
-
----
-
 ### 🚀 Featured Project
 
 #### 🛒 [TamilTrendZ – E-Commerce Web App](https://dosales.netlify.app/)
