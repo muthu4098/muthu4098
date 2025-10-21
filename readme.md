@@ -7,11 +7,16 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078FF&center=true&vCenter=true&width=550&lines=💻+Full+Stack+Developer;🚀+React+%7C+Flask+%7C+PostgreSQL;Web+Engineer+and+UI%2FUX+Enthusiast;Always+Learning+New+Tech" alt="Typing Animation" />
   </a>
 </p>
-
 <p align="center">
-  <a href="mailto:Muthu4098702@gmail.com"><img src="https://img.shields.io/badge/Email-Muthu4098702%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/muthu-kumar-5ab204269/"><img src="https://img.shields.io/badge/LinkedIn-Muthukumar-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://muthukumar2k.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-muthukumar2k.netlify.app-orange?style=for-the-badge&logo=react"></a>
+  <a href="mailto:Muthu4098702@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Muthu4098702%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/muthu-kumar-5ab204269/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muthukumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+  </a>
+  <a href="https://muthukumar2k.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-muthukumar2k.netlify.app-orange?style=for-the-badge&logo=react" alt="Portfolio Badge">
+  </a>
 </p>
 
 ---
