@@ -91,7 +91,7 @@ HTML • CSS • JavaScript • Python • Flask • PostgreSQL
 ---
 
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://github-readme-stats.vercel.app/api?username=muthu4098&show_icons=true&theme=tokyonight" />
 </p>
 
 <h4 align="center">⭐ If you like my work, consider giving a star to my repositories!</h4>
