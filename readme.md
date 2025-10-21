@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:Muthu4098702@gmail.com"><img src="https://img.shields.io/badge/Email-Muthu4098702%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/muthu-kumar-5ab204269/"><img src="https://img.shields.io/badge/LinkedIn-Muthukumar-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://dosales.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Dosales.netlify.app-orange?style=for-the-badge&logo=react"></a>
+  <a href="(https://tamiltrendz.netlify.app/)"><img src="https://img.shields.io/badge/Portfolio-tamiltrendz.netlify.app-orange?style=for-the-badge&logo=react"></a>
 </p>
 
 ---
