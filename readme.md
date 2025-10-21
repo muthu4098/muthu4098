@@ -1,7 +1,12 @@
-<!-- Modern & Trendy GitHub Profile README for Muthukumar -->
+<!-- 🚀 Modern, Animated, and Trophy-enhanced GitHub Profile README for Muthukumar -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Muthukumar</span></h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Passionate Web Engineer | 🌍 India</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078FF&center=true&vCenter=true&width=550&lines=💻+Full+Stack+Developer;🚀+React+%7C+Flask+%7C+PostgreSQL;🎯+Web+Engineer+and+UI%2FUX+Enthusiast;🌱+Always+Learning+New+Tech" alt="Typing Animation" />
+  </a>
+</p>
 
 <p align="center">
   <a href="mailto:Muthu4098702@gmail.com"><img src="https://img.shields.io/badge/Email-Muthu4098702%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
@@ -13,11 +18,9 @@
 
 ### 🌟 About Me
 
-🚀 I’m a **Full Stack Developer** with hands-on experience in crafting web applications using **React, Flask, and PostgreSQL**.  
-💡 I enjoy transforming creative ideas into elegant and functional web solutions.  
-📘 Constant learner — always exploring new technologies and trends in modern development.  
-
-🎯 **Goal:** To contribute to innovative teams that build impactful digital experiences.  
+🚀 I’m a **Full Stack Developer** passionate about building interactive, scalable, and user-friendly web applications using **React**, **Flask**, and **PostgreSQL**.  
+💡 I love transforming creative ideas into smooth, functional digital experiences.  
+🎯 **Goal:** To collaborate on projects that inspire innovation and deliver impact.  
 
 ---
 
@@ -52,9 +55,10 @@
 
 ---
 
-### 📜 Certifications
-**Full Stack Developer – Business Core Solutions (2025)**  
-HTML • CSS • JavaScript • Python • Flask • PostgreSQL  
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muthu4098&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
@@ -90,8 +94,11 @@ HTML • CSS • JavaScript • Python • Flask • PostgreSQL
 
 ---
 
+### 🐍 Contribution Snake (Animated)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muthu4098&show_icons=true&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
+---
 
 <h4 align="center">⭐ If you like my work, consider giving a star to my repositories!</h4>
