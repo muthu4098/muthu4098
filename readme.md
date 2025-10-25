@@ -52,7 +52,7 @@
 
 ### 🚀 Featured Project
 
-#### 🛒 [TamilTrendZ – E-Commerce Web App](https://muthukumar2k.netlify.app/)
+#### 🛒 [TamilTrendZ – E-Commerce Web App](https://tamiltrendz.netlify.app/)
 > A full-fledged online shopping platform with product catalog, transaction system, and user-friendly design.
 
 🧩 **Tech Stack:** React • Flask • PostgreSQL • Material UI  
